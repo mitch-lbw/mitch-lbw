@@ -1,8 +1,13 @@
 ### Hey there :)
-Miy Name Michel Meier, i am IT Consultant, Architect and Cyclist. Together with @Marcolo i've founded @kryptokrauts where we 
+Miy Name Michel Meier, i am IT Consultant, Architect and Cyclist. Together with [@Marcolo](https://github.com/marc0olo) i've founded [@kryptokrauts](https://github.com/kryptokrauts) where we work on blockchain based projects.
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mitch_lbw&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=mitch-lbw&show_icons=true&theme=dark" />
+<a href="https://github.com/anuraghazra/convoychat">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=mitch-lbw&show_icons=true&theme=dark" />
+</a>
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mitch-lbw&layout=compact&theme=dark" />
+</a>
+
 
 <!--
 **mitch-lbw/mitch-lbw** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
