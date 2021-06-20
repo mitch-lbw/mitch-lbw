@@ -1,6 +1,7 @@
 ### Hey there :)
 Miy Name Michel Meier, i am IT Consultant, Architect and Cyclist. Together with @Marcolo i've founded @kryptokrauts where we 
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mitch_lbw&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=mitch-lbw&show_icons=true&theme=dark" />
 
 <!--
