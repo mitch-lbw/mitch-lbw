@@ -1,5 +1,5 @@
 ### Hey there :)
-My Name Michel Meier, i am IT Consultant, Architect and Cyclist. Together with [@Marcolo](https://github.com/marc0olo) i've founded [@kryptokrauts](https://github.com/kryptokrauts) where we work on blockchain based projects.
+My Name is Michel Meier, i am IT Consultant, Architect and Cyclist. Together with [@Marcolo](https://github.com/marc0olo) i've founded [@kryptokrauts](https://github.com/kryptokrauts) where we work on blockchain based projects.
 
 <a href="https://github.com/anuraghazra/convoychat">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=mitch-lbw&show_icons=true&theme=merko" />
