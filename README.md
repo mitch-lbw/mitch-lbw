@@ -1,6 +1,6 @@
 <img src="https://github.com/mitch-lbw/mitch-lbw/blob/main/gh_banner.png"/>
 <hr/>
-▶️ I am a senior IT consultant, cyclist and co-founder of [@kryptokrauts](https://github.com/kryptokrauts) where we understand the [power of soon](https://soon.market)</br>
+▶️ I am a senior IT consultant, cyclist and co-founder of https://github.com/kryptokrauts where we develop https://soon.market</br>
 ▶️ I'm passionate about data discovery and processing and strive for clean architecture.</br>
 ▶️ My goal is to bring blockchain technology and professional software development together</br>
 ▶️ Supporter of the agile approach - people need to talk to solve problems</br>
