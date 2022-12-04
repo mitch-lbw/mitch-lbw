@@ -3,7 +3,7 @@
 ▶️ I am a senior IT consultant, cyclist and co-founder of <a href="https://github.com/kryptokrauts">@kryptokrauts</a> where we develop <a href="https://soon.market">soon.market</a></br>
 ▶️ I'm passionate about data discovery and processing and strive for clean architecture.</br>
 ▶️ My goal is to bring blockchain technology and professional software development together</br>
-▶️ I'm convinced of the agile solution approach - people need to talk to solve problems</br>
+▶️ I'm convinced of the agile approach - people need to talk to solve problems</br>
 
 ### Social
 <p align="center">
