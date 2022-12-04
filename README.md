@@ -1,9 +1,25 @@
-### Hey there :)
-My Name is Michel Meier, i am a senior IT consultant, architect and cyclist. Together with [@Marcolo](https://github.com/marc0olo), [TheIcarus](https://github.com/the-icarus) and [XoX](https://github.com/XoXs) i've founded [@kryptokrauts](https://github.com/kryptokrauts) where we understand the [power of soon](https://soon.market).
+<img src="https://github.com/mitch-lbw/mitch-lbw/blob/main/gh_banner.png"/>
+<hr/>
+▶️ I am a senior IT consultant, cyclist and co-founder of [@kryptokrauts](https://github.com/kryptokrauts) where we understand the [power of soon](https://soon.market)</br>
+▶️ I'm passionate about data discovery and processing and strive for clean architecture.</br>
+▶️ My goal is to bring blockchain technology and professional software development together</br>
+▶️ Supporter of the agile approach - people need to talk to solve problems</br>
 
+### Social
+<p align="center">
+  <a href="https://twitter.com/twx_mlb">
+    <img align="center" src="https://img.shields.io/twitter/follow/twx_mlb?style=for-the-badge&logo=appveyor"/>
+  </a>
+  <a href="https://www.linkedin.com/in/michel-meier-40237b1b8">
+    <img align="center" src="https://img.shields.io/badge/linked-in-blue?style=for-the-badge&logo=appveyor"/>
+  </a>
+</p>
+
+### Github stats
+<p align="center">
 <a href="https://github.com/anuraghazra/convoychat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=mitch-lbw&show_icons=true&theme=merko" />
-</a>
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mitch-lbw&layout=compact&theme=merko" />
-</a>
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=mitch-lbw&show_icons=true&count_private=true&theme=github_dark" /></a></p>
+<p align="center">
+<a href="https://github.com/anuraghazra/convoychat">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=mitch-lbw&show_icons=true&theme=github_dark" /></a></p>
+
