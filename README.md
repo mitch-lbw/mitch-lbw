@@ -1,4 +1,4 @@
-<img src="https://github.com/mitch-lbw/mitch-lbw/blob/main/gh_banner.png"/>
+<img src="https://github.com/mitch-lbw/mitch-lbw/blob/main/gh_banner_sm.png"/>
 <hr/>
 ▶️ I'm a senior IT consultant, cyclist and co-founder of <a href="https://github.com/kryptokrauts">@kryptokrauts</a> where we develop <a href="https://soon.market">soon.market</a></br>
 ▶️ I'm passionate about data discovery and processing and strive for clean architecture.</br>
