@@ -1,0 +1,9 @@
+{
+  "scripts": {
+    "deploy": "gatsby build --prefix-paths && gh-pages -d public -b main",
+    "deploy:ci": "gatsby build --prefix-paths && gh-pages -d public -r https://$GH_TOKEN@github.com/mitch-lbw/repo.git"
+  },
+  "devDependencies": {
+    "gh-pages": "^5.0.0"
+  }
+}
