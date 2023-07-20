@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunk=self.webpackChunk||[]).push([[691],{7200:function(e,n,t){t.r(n),t.d(n,{Head:function(){return u}});var l=t(7294);n.default=()=>l.createElement("main",null,l.createElement("img",{src:"/gh_banner_sm.png"}));const u=()=>l.createElement("title",null,"M² Consulting")}}]);
+//# sourceMappingURL=component---src-pages-index-tsx-685008000dbf8aa6f5c6.js.map
